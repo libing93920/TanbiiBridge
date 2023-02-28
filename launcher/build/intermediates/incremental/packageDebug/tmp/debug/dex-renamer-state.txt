@@ -1,4 +1,0 @@
-#Tue Feb 28 16:44:58 CST 2023
-base.0=H\:\\libing\\tanbii-as\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
