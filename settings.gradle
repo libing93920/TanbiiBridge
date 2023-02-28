@@ -1,3 +1,1 @@
-rootProject.name='TanbiiBridge'
-include ':app'
-include ':app:unitylib'
+include ':launcher', ':unityLibrary'

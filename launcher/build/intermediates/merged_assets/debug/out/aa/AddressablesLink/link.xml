@@ -1,0 +1,89 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SetGray" preserve="all" />
+    <type fullname="Tanbii.AchievementItem" preserve="all" />
+    <type fullname="Tanbii.AuthCodeItem" preserve="all" />
+    <type fullname="Tanbii.ControlLeUpEffect" preserve="all" />
+    <type fullname="Tanbii.ExpEventCellView" preserve="all" />
+    <type fullname="Tanbii.ExpEventController" preserve="all" />
+    <type fullname="Tanbii.GameMangerRegister" preserve="all" />
+    <type fullname="Tanbii.LoadingCellView" preserve="all" />
+    <type fullname="Tanbii.PlantTreesItem" preserve="all" />
+    <type fullname="Tanbii.RulesActivitiesItem" preserve="all" />
+    <type fullname="Tanbii.RulesLevelsItem" preserve="all" />
+    <type fullname="Tanbii.RulesTasksItem" preserve="all" />
+    <type fullname="Tanbii.TokensEventCellView" preserve="all" />
+    <type fullname="Tanbii.TokensEventController" preserve="all" />
+    <type fullname="Tanbii.TokensItem" preserve="all" />
+    <type fullname="Tanbii.TreeItem" preserve="all" />
+    <type fullname="Tanbii.UI_AuthCode_ActivityComponent" preserve="all" />
+    <type fullname="Tanbii.UI_AuthCodeComponent" preserve="all" />
+    <type fullname="Tanbii.UI_ExpStatusComponent" preserve="all" />
+    <type fullname="Tanbii.UI_LoginComponent" preserve="all" />
+    <type fullname="Tanbii.UI_MainComponent" preserve="all" />
+    <type fullname="Tanbii.UI_PlantTreesComponent" preserve="all" />
+    <type fullname="Tanbii.UI_RulesComponent" preserve="all" />
+    <type fullname="Tanbii.UI_RuleTipsComponent" preserve="all" />
+    <type fullname="Tanbii.UI_SetUserInfoComponent" preserve="all" />
+    <type fullname="Tanbii.UI_ShareComponent" preserve="all" />
+    <type fullname="Tanbii.UI_Sign_InComponent" preserve="all" />
+    <type fullname="Tanbii.UI_TanbiiStatusComponent" preserve="all" />
+    <type fullname="Tanbii.UI_TipsComponent" preserve="all" />
+    <type fullname="Tanbii.UI_UserCenterComponent" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="EnhancedUI.EnhancedScroller.EnhancedScroller" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Dropdown" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+</linker>

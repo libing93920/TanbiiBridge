@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:3:1-76:12
+MERGED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:2:1-13:12
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:70-105
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:106-152
+	android:versionCode
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:3:153-193
+supports-screens
+ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-74:19
+MERGED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-74:19
+MERGED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:3:2-11:16
+MERGED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:3:2-11:16
+	android:label
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:12:2-43
+MERGED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:12:2-43
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		ADDED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		MERGED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+		INJECTED from H:\libing\tanbii-as\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-55
+uses-feature#android.hardware.type.pc
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-48
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-54:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-194
+	android:theme
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-54
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-50:40
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-37
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-53:40
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:17-37
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:9-58:33
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-30
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:9-61:36
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-33
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:9-64:36
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-33
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-67:37
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-34
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:9-70:50
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-47
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-73:68
+	android:value
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-65
+	android:name
+		ADDED from [:unityLibrary] H:\libing\tanbii-as\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-42
+activity#com.yasirkula.unity.NativeShareCustomShareDialogActivity
+ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:4:3-145
+	android:exported
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:4:118-142
+	android:theme
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:4:66-117
+	android:name
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:4:13-65
+receiver#com.yasirkula.unity.NativeShareBroadcastListener
+ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:5:3-85
+	android:exported
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:5:58-82
+	android:name
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:5:13-57
+provider#com.yasirkula.unity.NativeShareContentProvider
+ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:6:3-10:42
+	android:grantUriPermissions
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:10:5-39
+	android:authorities
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:8:5-70
+	android:exported
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:9:5-29
+	android:name
+		ADDED from [:NativeShare:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d4a27de53b9b85648053703a4f1f7267\AndroidManifest.xml:7:5-66
