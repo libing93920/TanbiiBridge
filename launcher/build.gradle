@@ -7,7 +7,7 @@ dependencies {
     }
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 30
     buildToolsVersion '28.0.3'
 
     compileOptions {
@@ -49,7 +49,6 @@ android {
             minifyEnabled false
             useProguard false
             proguardFiles getDefaultProguardFile('proguard-android.txt')
-            signingConfig signingConfigs.release
             jniDebuggable true
         }
         release {
