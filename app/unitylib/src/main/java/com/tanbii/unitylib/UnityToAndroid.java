@@ -73,4 +73,15 @@ public class UnityToAndroid {
         callUnity("UI_Main", "FromAndroid", "hello unity i'm android");
         return true;
     }
+
+    /**
+     * 获取运动数据
+     */
+    public boolean getStep(String objName, String funName) {
+        //调用接口返回运动数据
+        String step = "1000";
+        //调用unity方法返回数据
+        callUnity(objName, funName, step);
+        return true;
+    }
 }
