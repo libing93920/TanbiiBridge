@@ -13,7 +13,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.os.Process;
 
-public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecycleEvents
+public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecycleEvents, StepClient.OnStepChangeListener
 {
     protected UnityPlayer mUnityPlayer; // don't change the name of this variable; referenced from native code
 
@@ -41,6 +41,21 @@ public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecyc
         mUnityPlayer = new UnityPlayer(this, this);
         setContentView(mUnityPlayer);
         mUnityPlayer.requestFocus();
+        StepClient.get().init(this);
+        StepClient.get().registerListener(this);
+        StepClient.get().requestPermissions(this);
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        StepClient.get().onRequestPermissionsResult(this,requestCode,permissions,grantResults);
+    }
+
+    @Override
+    public void onStepChange(int count) {
+        //TODO gameObjectName和functionName需要替换掉
+        UnityPlayer.UnitySendMessage("gameObjectName","functionName",count+"");
     }
 
     // When Unity player unloaded move task to background
@@ -66,6 +81,7 @@ public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecyc
     // Quit Unity
     @Override protected void onDestroy ()
     {
+        StepClient.get().unRegisterListener(this);
         mUnityPlayer.destroy();
         super.onDestroy();
     }
